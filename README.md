@@ -1,4 +1,4 @@
-# Karta App - Práctica de Tópicos de Base de Datos. Modelo Relacional a Orientado Objetos.
+# Karta_OODB - Práctica de Tópicos de Base de Datos. Modelo Relacional a Orientado Objetos.
 Alumno: Teista García Cesar Gabriel  22211932 
 Carrera: Ingeniería Informática.
 
